@@ -28,14 +28,11 @@ Run the provided scripts to explore various Pandas functionalities. Modify the d
 ![image](https://github.com/user-attachments/assets/089c5156-43d6-4fab-b6ab-162f4d976c5b)
 ![image](https://github.com/user-attachments/assets/671af818-fc10-4a0c-ae6e-47c94c4a7f44)
 
-
-
-
 **🤝 Contributing**
 
 Feel free to fork this repo and contribute by adding more examples and improvements!
 
 **📧 Contact**
 
-For queries, reach out via your-email@example.com or open an issue on GitHub.
+For queries, feel free to reach out.
 
